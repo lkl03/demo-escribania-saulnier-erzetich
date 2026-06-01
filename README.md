@@ -1,2 +1,7 @@
-# demo-escribania-saulnier-erzetich
-Demo web para Escribania Saulnier - Erzetich — diseñada por eterlab.
+# Escribania Saulnier - Erzetich
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
